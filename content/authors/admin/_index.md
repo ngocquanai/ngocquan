@@ -18,12 +18,14 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: AI Engineer
+role: AI Resident
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Hanoi University of Science and Technology
+  - name: VinAI Research
     url: https://hust.edu.vn/en/
+  - name: Hanoi University of Science and Technology
+    url: https://www.vinai.io/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -55,7 +57,7 @@ education:
     date_start: 2021-09-01
     date_end: 2025-07-01
     summary: |
-      GPA: 3.47/4.0
+      GPA: 3.53/4.0
       
       Courses included:
       - Data Science
@@ -83,28 +85,24 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: AI Resident
+    company_name: VinAI Research
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-08-02
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    summary: 
+  # - position: Backend Software Engineer
+  #   company_name: X
+  #   company_url: ''
+  #   company_logo: ''
+  #   date_start: 2016-01-01
+  #   date_end: 2020-12-31
+  #   summary: |
+  #     Responsibilities include:
+  #     - Migrated infrastructure to a new data center
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -157,4 +155,4 @@ work:
 
 ## About Me
 
-I am a third-year student at Hanoi University of Science and Technology, currently working as a research assistant at BKAI Laboratory and as an AI Engineer at VC Corporation. My research focuses on natural language processing, specifically on the problem of Speech Emotion Recognition. Additionally, I am exploring Mixture of Experts for scalable AI problems.
+I am a third-year student at Hanoi University of Science and Technology, currently working as a research assistant at BKAI Laboratory and as an AI Resident at VinAI Research. My research focuses on natural language processing, specifically on the problem of Speech Emotion Recognition. Additionally, I am exploring Mixture of Experts for scalable AI problems.
